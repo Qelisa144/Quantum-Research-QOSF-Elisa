@@ -1,8 +1,9 @@
-⚠️ Intellectual Property & Privacy Note
-This repository contains my personal implementation and results based on the QTCAD Training Curriculum.
+1. Quantum Machine Learning (QML)
+File: QML IBM Course.ipynb
 
-Code Attribution: The foundational simulation frameworks and exercises are proprietary to their respective creators.
+Description: Exercises, notes, and practical implementations developed during the IBM Quantum Learning course.
 
-My Contribution: The focus of this repo is my independent execution, debugging, and data synthesis.
+2. Quantum Device Design (QTCAD)
+File: QTCAD general.ipynb
 
-Usage: These notebooks are for portfolio and demonstration purposes only. Redistribution of the core training material is not intended.
+Description: General workflows for simulating semiconductor-based quantum devices using QTCAD (Quantum Technology Computer-Aided Design).
